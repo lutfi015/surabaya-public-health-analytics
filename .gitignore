@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data_kesehatan_surabaya_raw.csv
+.env
