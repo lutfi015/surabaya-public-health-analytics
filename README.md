@@ -32,5 +32,5 @@ Proyek simulasi *Data Analyst* berbasis kesehatan masyarakat untuk mengolah, mem
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/surabaya-public-health-analytics.git](https://github.com/USERNAME_KAMU/surabaya-public-health-analytics.git)
+   git clone [https://github.com/pekmudewe/surabaya-public-health-analytics.git](https://github.com/utowopekku/surabaya-public-health-analytics.git)
    cd surabaya-public-health-analytics
